@@ -13,8 +13,8 @@ global.youtube = 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
 global.ownername = 'Alwi'
 global.botname ='NiuBotz-Md'
 global.donasi = {
-    saweria: 'Kaga Punya',
-    nomor: '081511480762'
+    dana: '6282239202895',
+    nomor: '6282239202895'
 }
 global.packname = 'NiuBotz'
 global.author = 'By Alwi'
